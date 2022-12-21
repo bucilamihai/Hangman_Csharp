@@ -1,0 +1,10 @@
+C:\Personal Data\School\Programare\C#\Proiecte\Hangman\bin\Debug\Hangman.exe.config
+C:\Personal Data\School\Programare\C#\Proiecte\Hangman\bin\Debug\Hangman.exe
+C:\Personal Data\School\Programare\C#\Proiecte\Hangman\bin\Debug\Hangman.pdb
+C:\Personal Data\School\Programare\C#\Proiecte\Hangman\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Personal Data\School\Programare\C#\Proiecte\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Personal Data\School\Programare\C#\Proiecte\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Personal Data\School\Programare\C#\Proiecte\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Personal Data\School\Programare\C#\Proiecte\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Personal Data\School\Programare\C#\Proiecte\Hangman\obj\Debug\Hangman.exe
+C:\Personal Data\School\Programare\C#\Proiecte\Hangman\obj\Debug\Hangman.pdb
